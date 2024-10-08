@@ -53,6 +53,19 @@
   v3: true
   v3_1: true
 
+  - name: APIQuality
+  category: 
+    - documentation
+    - description-validators
+    - monitoring
+  link: https://apiquality.io/
+  language: SaaS
+  description:
+    Low code tool for APIOps. Optimize your API First cycle controlling all faces of API creation.
+    Design, architecture, development, testing and deployment. Access to reports and evaluations to optimize your APIs.
+  v2: true
+  v3: true
+
 - name: Assertible
   category: testing
   language: SaaS
